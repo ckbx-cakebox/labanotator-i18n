@@ -1,5 +1,5 @@
-# labanotator-i18n
-LabaNotator i18n (internationalization) files
+# labanotator-localization
+LabaNotator L18n (localization) files
 
 # Installation
 
